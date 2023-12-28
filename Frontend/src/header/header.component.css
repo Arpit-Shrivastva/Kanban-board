@@ -1,0 +1,15 @@
+#button {
+    margin-left: auto;
+    margin-right: 3%;
+}
+
+.demo-section {
+    margin-left: 65%;
+    margin-top: 0.5%;
+}
+
+#image {
+    width: 100px;
+    height: auto;
+    cursor: pointer;
+}
