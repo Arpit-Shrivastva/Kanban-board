@@ -3,6 +3,6 @@ A Kanban Board is a visual tool used for managing work and improving efficiency.
 
 Technology Stack:
 --------------------
-Frontend: frameworks  Angular 16.1
-Backend: SpringBoot 3.2.0
+Frontend: frameworks  Angular 16.1                                                                                                                                                               
+Backend: SpringBoot 3.2.0                                                                                                                                                                        
 Database: MongoDB, MySQL
