@@ -144,6 +144,4 @@ public class Boardcontroller {
             throw new Boardsnotfound();
         }
     }
-
 }
-
