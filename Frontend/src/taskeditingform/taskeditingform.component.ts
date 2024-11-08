@@ -44,5 +44,4 @@ export class TaskeditingformComponent implements OnInit {
     this.formSubmit.emit(editTaskForm);
     this.dialogRef.close();
   }
-
 }
